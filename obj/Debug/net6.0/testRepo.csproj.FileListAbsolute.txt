@@ -1,0 +1,15 @@
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\bin\Debug\net6.0\testRepo.exe
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\bin\Debug\net6.0\testRepo.deps.json
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\bin\Debug\net6.0\testRepo.runtimeconfig.json
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\bin\Debug\net6.0\testRepo.dll
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\bin\Debug\net6.0\testRepo.pdb
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\obj\Debug\net6.0\testRepo.csproj.AssemblyReference.cache
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\obj\Debug\net6.0\testRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\obj\Debug\net6.0\testRepo.AssemblyInfoInputs.cache
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\obj\Debug\net6.0\testRepo.AssemblyInfo.cs
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\obj\Debug\net6.0\testRepo.csproj.CoreCompileInputs.cache
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\obj\Debug\net6.0\testRepo.dll
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\obj\Debug\net6.0\refint\testRepo.dll
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\obj\Debug\net6.0\testRepo.pdb
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\obj\Debug\net6.0\testRepo.genruntimeconfig.cache
+C:\Users\chase\OneDrive - The University of Alabama\School\UA 2022 Summer\SummerInternship\testRepo\obj\Debug\net6.0\ref\testRepo.dll
